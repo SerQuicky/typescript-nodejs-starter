@@ -1,0 +1,1 @@
+console.log("Can handle .ts files.");
